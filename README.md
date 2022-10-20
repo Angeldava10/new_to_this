@@ -1,2 +1,2 @@
 # new_to_this
-my coding journey
+HI Im currently studing and reading Pyhton Crash course
