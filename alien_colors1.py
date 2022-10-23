@@ -12,5 +12,5 @@ if player_killed in alien_color:
 if alien_color == 'blue':
     print('\nA new species have been found!')
 
-alien_color.append('blue')
+
 
