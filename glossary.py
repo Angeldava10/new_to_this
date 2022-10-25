@@ -1,4 +1,4 @@
-#to the same as I did in favortie_numbers.py
+#Understanding how to add dictionaries to prints
 
 python_words = {
     'int': ' converts the specified value into an integer number.', 
