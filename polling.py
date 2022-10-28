@@ -14,6 +14,6 @@ for lists in list:
         # Those who took it.
         print('\n' + lists.title() + ', thank you for responding our poll!')
     else:
-        # Those who havent>
+        # Those who havent.
         print('\n' + lists.title() + ', we invite you to respond to our poll!')
 
